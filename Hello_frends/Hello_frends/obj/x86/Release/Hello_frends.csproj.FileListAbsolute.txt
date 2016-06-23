@@ -1,0 +1,4 @@
+C:\aula\primeri.csharp.terminal\Hello_frends\Hello_frends\bin\Release\Hello_frends.exe
+C:\aula\primeri.csharp.terminal\Hello_frends\Hello_frends\bin\Release\Hello_frends.pdb
+C:\aula\primeri.csharp.terminal\Hello_frends\Hello_frends\obj\x86\Release\Hello_frends.exe
+C:\aula\primeri.csharp.terminal\Hello_frends\Hello_frends\obj\x86\Release\Hello_frends.pdb
